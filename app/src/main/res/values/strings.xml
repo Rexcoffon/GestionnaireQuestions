@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GestionnaireQuestions</string>
+    <string name="title_activity_ajouter_question">AjouterQuestion</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_two_line_item_view_holder">TwoLineItemViewHolder</string>
+</resources>
